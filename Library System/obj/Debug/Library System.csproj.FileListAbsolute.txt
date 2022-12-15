@@ -1,0 +1,17 @@
+C:\Users\Ayuub\source\repos\Library System\bin\Debug\Library System.exe.config
+C:\Users\Ayuub\source\repos\Library System\bin\Debug\Library System.exe
+C:\Users\Ayuub\source\repos\Library System\bin\Debug\Library System.pdb
+C:\Users\Ayuub\source\repos\Library System\obj\Debug\Library System.csprojAssemblyReference.cache
+C:\Users\Ayuub\source\repos\Library System\obj\Debug\Library_System.Form1.resources
+C:\Users\Ayuub\source\repos\Library System\obj\Debug\Library_System.Properties.Resources.resources
+C:\Users\Ayuub\source\repos\Library System\obj\Debug\Library System.csproj.GenerateResource.cache
+C:\Users\Ayuub\source\repos\Library System\obj\Debug\Library System.csproj.CoreCompileInputs.cache
+C:\Users\Ayuub\source\repos\Library System\obj\Debug\Library System.exe
+C:\Users\Ayuub\source\repos\Library System\obj\Debug\Library System.pdb
+C:\Users\Ayuub\source\repos\Library System\obj\Debug\Library_System.Dashboard.resources
+C:\Users\Ayuub\source\repos\Library System\obj\Debug\Library_System.AddBooks.resources
+C:\Users\Ayuub\source\repos\Library System\obj\Debug\Library_System.ViewBook.resources
+C:\Users\Ayuub\source\repos\Library System\obj\Debug\Library_System.AddStudent.resources
+C:\Users\Ayuub\source\repos\Library System\obj\Debug\Library_System.ViewStudentInformation.resources
+C:\Users\Ayuub\source\repos\Library System\obj\Debug\Library_System.IssueBooks.resources
+C:\Users\Ayuub\source\repos\Library System\obj\Debug\Library_System.ReturnBook.resources
